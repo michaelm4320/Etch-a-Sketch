@@ -8,3 +8,8 @@ for (let i = 0; i < 16; i++) {
     }
 }
 
+
+grid.addEventListener("mouseover", function (e) {
+    e.target.style.background = "green";
+});
+
