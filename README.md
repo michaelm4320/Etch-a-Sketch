@@ -7,4 +7,6 @@ The user is able to hover their mouse over the cells to create green colored she
 
 ![image](https://github.com/michaelm4320/Etch-a-Sketch/assets/62119636/1771b00a-0118-46dc-93e2-b2da34fe4779)
 
+Old grid is removed and new grid is displayed with new dimensions placed by the user.
+
 ![image](https://github.com/michaelm4320/Etch-a-Sketch/assets/62119636/2e19a575-f76d-4806-b896-fd4b03bc61f2)
